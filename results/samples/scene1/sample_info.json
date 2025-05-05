@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "prompt": "Predict the state of the arm after 50 frames: stack blocks",
+    "ssim": 0.7527227401733398,
+    "psnr": 11.162448563476715
+  },
+  {
+    "index": 1,
+    "prompt": "Predict the state of the arm after 50 frames: handover the blocks",
+    "ssim": 0.42507174611091614,
+    "psnr": 5.988169639628618
+  },
+  {
+    "index": 2,
+    "prompt": "Predict the state of the arm after 50 frames: handover the blocks",
+    "ssim": 0.5294880270957947,
+    "psnr": 7.3278544989204075
+  }
+]
