@@ -77,7 +77,7 @@ Images will be saved in `sample_figures/` with side-by-side comparisons.
 For questions regarding data usage or reproducibility, please contact:
 
 - Ziyuan Li: [ziyuanli1@link.cuhk.edu.cn](mailto:ziyuanli1@link.cuhk.edu.cn)  
-- Jinhao Jing: [jinhaojingziyuanli1@link.cuhk.edu.cn](mailto:jinhaojingziyuanli1@link.cuhk.edu.cn)
+- Jinhao Jing: [jinhaojing@link.cuhk.edu.cn](mailto:jinhaojingziyuanli1@link.cuhk.edu.cn)
 
 
 ## Citation
